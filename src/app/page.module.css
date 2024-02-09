@@ -1,0 +1,13 @@
+.main {
+  min-height: 100vh;
+}
+
+.playground {
+  display: flex;
+  justify-content: space-between;
+  min-height: fit-content;
+}
+
+.column {
+  width: 30%;
+}
